@@ -1,0 +1,19 @@
+# Esto es un comentario 
+
+# ignorar un archivo
+nombrearchivo
+
+# ignorar grupo de archivos
+
+*.gif
+
+*.scss
+
+# ignorar carpeta
+
+/carpeta
+
+/carpeta/subcarpeta
+
+/node_modules
+
